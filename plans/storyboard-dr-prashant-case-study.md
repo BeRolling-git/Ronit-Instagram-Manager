@@ -1,53 +1,59 @@
-# Storyboard: Dr. Prashant case study reel (Be Rolling)
+# Dr. Prashant Case Study: VO Script & Shot List
+@berolling · same format as the Jigar Patel case study
 
-Reference: @arpit_clipsyk's reel for @indicreativeagency (uploaded mp4, ~25s): animated typing on a gradient that switches between light and dark, glowing pill buttons, a stat card that counts up, real work flying past, an ads-dashboard proof shot, and a logo sign-off.
-Ours: ~28–30s, 9:16, music-led, no voiceover. Tells the story "what we did → how he grew".
-Numbers: at most 2 on screen, always rounded or relative ("3x", "lakhs"). Blur exact figures on any insights screenshot.
-{{ }} = fill from the Canva case study. Lines marked (confirm) need checking against the case study.
+## Script and clip plan
+Seven beats, the same arc as Jigar: quote open, the expert, the brief, the system, the result, the point, a question close.
+Visual style follows the reference montage (@arpit_clipsyk for @indicreativeagency): animated typing on a gradient that switches between light and dark, glowing pill buttons, a stat card that counts up, real work flying past, and a blurred insights "proof" shot.
+Numbers: tell the story, don't list stats. At most two figures, rounded or relative. {{ }} = fill from the Canva case study.
 
-Reference structure → ours
-| Reference beat | Dr. Prashant version |
-|---|---|
-| "Most agencies sell you ads." | "Most doctors post content." |
-| "We build the…" + conversion card counting up | "We built a brand." + views card counting up |
-| Pills: Ads → Funnels → Websites → Follow-up | Pills: Research → Scripts → Edits → Science visuals |
-| "Connected" / "Built to work as one" | "One system." |
-| "Nothing runs in isolation" + website screens | "Every reel backed by research" + his reels flying in |
-| Case card + "guesswork." | Result card + "Not luck." |
-| "This isn't theory" + ads-manager rows | "This isn't theory" + blurred Instagram insights |
-| "Growth isn't left to chance." | "Science, made scrollable." |
-| Logo pill → "We don't run your marketing / We build your empire" | BE ROLLING pill → "We don't make reels. / We build doctors into brands." |
+| Time | Beat | VO | Clips (0.5–1.5s each) |
+|---|---|---|---|
+| 0–4s | Quote open | Doctors spend years learning the science. Most of it never leaves the clinic. | Light cream gradient, type building word by word. On "learning the science": B&W macro of research papers, a stethoscope, hands writing. On "never leaves the clinic": a closed clinic door, slow push-in, light fading. |
+| 4–9s | The expert | Dr. Prashant had the research. The credibility. The answers. *(confirm)* What he didn't have was an audience that saw it. | Three hard cuts on "research / credibility / answers": papers, his degree or clinic, him explaining. On "an audience that saw it": hard cut to his strongest still, slow push-in, held a beat longer than everything around it. |
+| 9–13s | The brief | So the mission was simple: make science move as fast as the feed. | Off-white paper card with type. On "mission": quick cuts of the Be Rolling team planning (scripts on a laptop, research tabs, content calendar). On "as fast as the feed": a phone scrolling his reels at speed. |
+| 13–22s | The system | So we built a system. Research first. Scripts that hook in seconds. Premium, fast-paced edits. Science you can actually see. | Dark bg, brand-colour glow (reference style). Each phrase = one glossy pill whipping in (RESEARCH → SCRIPTS → EDITS → SCIENCE VISUALS) while his real reels fly past behind, blurred. On "science you can actually see": a clean science-visual frame from one of his reels. All pills merge into one bright pill: "ONE SYSTEM". |
+| 22–32s | The result | {{N}} days later, the feed caught up. {{Rounded figure, e.g. "Lakhs of views"}}. Growth, {{N}} times over. | "{{N}} days later": off-white card, a date line ticking forward. "{{Rounded figure}}": a dark stat card (reference style) with one number rolling up, over a stack of his Instagram insights with exact numbers blurred. "{{N}} times over": a growth line climbing to {{N}}X, ending on his profile header. Headline over the stack: "This isn't theory." |
+| 32–37s | The point | Not one viral reel. A system, built on science. | "Not one viral reel": a single reel card flips and fades. "A system": his grid zooms out into one wall of content. "Built on science": match-cut to Dr. Prashant, slow push-in, hold. |
+| 37–43s | Close | You already know the science. Does your audience? DM "BRAND" to talk. | Light gradient, type on. "Science, made scrollable." flashes once. End card: BeRolling Media / Expert & Founder Personal Branding / DM "BRAND". |
 
-## Shot by shot
-| # | Time | On-screen text | Visual | Motion / transition | Assets | SFX |
-|---|---|---|---|---|---|---|
-| 1 | 0:00–0:02 | Most doctors post content. | Light gradient (cream → brand colour); floating 3D chat/heart icons | Word-by-word pop in, slight scale-up; icons drift (parallax) | Gradient bg, 2 icon renders | Soft whoosh per word |
-| 2 | 0:02–0:03.5 | Few build trust. | Same bg; a "trust" icon chip drops between the words | Chip snaps in like the reference's speaker icon | Icon chip | Click |
-| 3 | 0:03.5–0:05 | Dr. Prashant knew the science. Not the algorithm. (confirm) | Typing cursor; text blurs out | Type-on with motion blur, then whip right | — | Typing tick |
-| 4 | 0:05–0:07 | We built the brand. | Dark card slides in: "Reel views" counting up {{start}} → {{end, rounded}} with a rising line graph | Card scales in from the right; number rolls; graph line draws | Counter card (AE), real trend shape | Rising riser |
-| 5 | 0:07–0:10 | Research → Scripts → Edits → Science visuals | Dark bg, brand-colour glow; glossy pills cycle; his real reels (thumbnails) fly behind | Each pill whips in left to right; thumbnails parallax with blur | 4 pill comps, 6–8 of his reel thumbnails | Whoosh per pill |
-| 6 | 0:10–0:11 | One system. | All pills collapse into one bright pill | Pills slide together and merge (scale + glow) | — | Bass hit |
-| 7 | 0:11–0:13.5 | Every reel. Backed by research. | Light bg; one of his best reels in a phone mockup, magnifier over a research-overlay frame | Magnifier glides across; text types in above | Phone mockup + 1 screen recording of his reel | Soft tick |
-| 8 | 0:13.5–0:15.5 | Fast. Premium. Science-first. | 3 quick cuts of his reels (presenter + science visual frames) | Hard cuts on the beat, 0.6s each | 3 reel clips | Beat-synced hits |
-| 9 | 0:15.5–0:18 | {{Nx}} reach in {{timeframe}} | Result card (like the reference's case card): his profile header + 2 rounded stats | Card slams in, slight 3D tilt; "Not luck." types in above | Profile screenshot (approved), result card | Impact + typing |
-| 10 | 0:18–0:21 | This isn't theory. | Dark bg; stacked Instagram insights panels (views, followers, reach) with exact numbers blurred | Panels stack upward with depth blur; headline fixed on top | 3–4 insights screenshots | Low drone |
-| 11 | 0:21–0:23 | Science, made scrollable. | Glitch reveal, white text on dark, brand-colour glow sweep | Type-on + RGB-split glitch | — | Glitch SFX |
-| 12 | 0:23–0:24.5 | BE ROLLING | Logo inside a glowing pill on light bg | Logo letters build in (like the INDI CREATIVE pill) | Be Rolling logo | Shimmer |
-| 13 | 0:24.5–0:28 | We don't make reels. → We build doctors into brands. | Light gradient, centred line | Line 1 types, deletes to "W|", line 2 types | — | Typing + final hit |
+Target: about 40–43s. VO in Ronit's voice or a clean, calm male VO, with on-screen type synced word by word on key lines.
 
-## Caption (for Ronit's page)
+## Footage and asset checklist
+
+### From Dr. Prashant's team
+- [ ] Instagram Insights screenshots for the campaign period: views, reach, follower growth, and the follower vs non-follower split
+- [ ] The 2 headline figures from the Canva case study (one growth multiple, one views/reach figure) and the exact timeframe
+- [ ] Screen recordings of 4–5 of his best reels and his grid (for the zoom-out wall)
+- [ ] Every existing clip of him: clinic, consultations (with patient consent, faces hidden), talks, podcasts
+- [ ] 3–4 high-res stills, including one hero shot for the 4–9s turn
+- [ ] Clinic, lab or research B-roll (no patient faces)
+
+### Made in-house
+- [ ] Kinetic type on cream gradient and dark glow backgrounds (reference style)
+- [ ] 4 glossy pills + the merge into "ONE SYSTEM"
+- [ ] Dark stat card with number roll-up, and a growth line to {{N}}X
+- [ ] Off-white "{{N}} days later" card with the date ticking forward
+- [ ] Blurred insights stack with "This isn't theory."
+- [ ] End card: BeRolling Media / Expert & Founder Personal Branding / DM "BRAND"
+- [ ] Behind the scenes of the Be Rolling team scripting and researching
+
+### Stock, texture only
+- [ ] Research papers, stethoscope, lab glassware, hands typing, a phone scrolling. Never another doctor's face standing in for Dr. Prashant.
+
+## Edit notes and open items
+- The 4–9s cut to his hero still is the turn of the edit. Hold it a beat longer.
+- Keep science visuals real: only research overlays and visuals already used in his reels. No fake papers or made-up claims.
+- Two readable numbers at most. Blur every other figure on screenshots.
+- Swap the reference's yellow for Be Rolling's brand colour unless you want the reference look.
+- Open: fill {{ }} from the Canva case study. I couldn't open the Canva link, so no figure here is confirmed.
+- Open: "had the research… didn't have an audience" is a storytelling line. Confirm it matches his real starting point.
+- Open: get Dr. Prashant's sign-off on the final VO and on using his face, reels and analytics before publishing.
+
+## Caption (Ronit's page)
 He had the science. We built the brand. 🧪
 
-How we turned Dr. Prashant's research into reels people actually finish: research → scripts → fast, premium edits → science visuals.
+How we turned Dr. Prashant's research into reels people actually finish: research → scripts → fast, premium edits → science you can see.
 
-{{rounded result}} in {{timeframe}}. And we're just getting started.
+{{Rounded result}} in {{timeframe}}. Not one viral reel. A system.
 
 Doctor, clinic or expert who wants to be known for what you know? DM "BRAND".
-
-## Before production
-- Fill in shots 4 and 9 from the Canva case study: one growth figure and one reach/views figure, both rounded.
-- Get Dr. Prashant's written OK to show his face, handle, reels and insights.
-- Blur exact numbers on every insights screenshot; only the 2 rounded stats are readable.
-- Brand colour: the reference uses yellow. Swap to Be Rolling's own colour unless you want the yellow look.
-- Music: licensed fast, minimal electronic track around 120–128 BPM; cut shots 5–8 on the beat.
-- Easier option for shots 5–6: a flat pill animation in Premiere (Essential Graphics) instead of glossy 3D pills in AE.
